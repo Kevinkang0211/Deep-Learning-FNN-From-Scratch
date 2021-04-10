@@ -5,7 +5,7 @@
 
 ### 作業說明:
 
-You are given the dataset of medical images (MedMNIST.zip). (Daraset url:https://reurl.cc/6yMKGk)
+You are given the dataset of medical images (MedMNIST.zip). (Dataset url:https://reurl.cc/6yMKGk)
 This dataset contains 6 classes. In this exercise, you need to implement a feedforward neural network (FNN) model by
 yourself to recognize radiological images, and use specified algorithms to update the parameters. 
 Please use train.npz as training data and test.npz as test data.
