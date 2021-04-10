@@ -15,14 +15,17 @@ Please use train.npz as training data and test.npz as test data.
 ### 執行結果1:
 
 模型設計:
-Hidden layer1: 64 nodes，
-Hidden layer2: 32 nodes，
-output layer: 6 nodes。
+Hidden layer1: 64 nodes/ 
+Hidden layer2: 32 nodes/ 
+output layer: 6 nodes。 / 
 Epoch number = 20， Batch size = 2048， Learning rate = 0.8。
 
 Training Process:
+
 ![image](https://user-images.githubusercontent.com/45477381/114274394-ca7a3580-9a50-11eb-8ff6-c863a4526a9d.png)
+
 Learning curves of Loss and the Accuracy:
+
 ![image](https://user-images.githubusercontent.com/45477381/114274376-b20a1b00-9a50-11eb-927b-136d9493f8b6.png)
 
 ### 執行結果2:
@@ -30,6 +33,9 @@ Learning curves of Loss and the Accuracy:
 模型設計同上，將batch size改為 = 1024
 
 Training Process:
+
 ![image](https://user-images.githubusercontent.com/45477381/114274513-4aa09b00-9a51-11eb-8fb6-086b9ff34d06.png)
+
 Learning curves of Loss and the Accuracy:
+
 ![image](https://user-images.githubusercontent.com/45477381/114274518-512f1280-9a51-11eb-9b32-d0b2dbcf1284.png)
